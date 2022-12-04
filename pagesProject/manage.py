@@ -1,4 +1,4 @@
-#!/usr/bin/env python hhgf
+#!/usr/bin/env python hhgfsrthb
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
